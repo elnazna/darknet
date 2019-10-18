@@ -1,0 +1,1 @@
+/home/elnazna/darknet/data/kitti/image/train/000007.png
